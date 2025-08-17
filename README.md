@@ -4,6 +4,7 @@
   - HTML
   - CSS 
   - JavaScript
+    
 After creating the portfolio:
 - I have pushed my HTML,CSS and JavaScript files to a GitHub repo for them to be ready for deployment.
 - In Azure Portal:
